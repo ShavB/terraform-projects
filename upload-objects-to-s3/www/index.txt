@@ -1,0 +1,2 @@
+This is my file.
+Needs to be upload to S3 using Terraform.
