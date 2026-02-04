@@ -20,7 +20,7 @@ crash.log
 # .terraform.lock.hcl
 
 # Variable files (often contain secrets)
-*.tfvars
+# *.tfvars
 *.tfvars.json
 
 # Override files
