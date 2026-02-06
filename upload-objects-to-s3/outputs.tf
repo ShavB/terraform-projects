@@ -1,3 +1,3 @@
-output "s3_website_url" {
-  value = aws_s3_bucket.website-bucket.website_endpoint
+output "cloudfront_domain_url" {
+  value = aws_cloudfront_distribution.s3_distribution.domain_name
 }
