@@ -21,6 +21,8 @@ The Terraform configuration provisions the following:
 
 ## 🏗️ Architecture Overview
 
+~[Architecture Diagram](images/architecture.png)
+
 ```
 User
   ↓
